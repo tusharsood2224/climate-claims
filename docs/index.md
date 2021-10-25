@@ -19,34 +19,34 @@ The article also lacks logical validity. For example, even if it were true that 
 
 # Selected Quality Sources 
 
-- Jones, M.W., Smith, A., Betts, R., Canadell, J.G., Prentice, I.C. and Le Quéré, C., 2020. Climate Change Increases the Risk of Wildfires. [online] ScienceBrief. Available at: <https://www.preventionweb.net/files/73797_wildfiresbriefingnote.pdf> [Accessed 24 Oct. 2021]. 
+- Jones, M.W., Smith, A., Betts, R., Canadell, J.G., Prentice, I.C. and Le Quéré, C., 2020. *Climate Change Increases the Risk of Wildfires*. [online] ScienceBrief. Available at: <https://www.preventionweb.net/files/73797_wildfiresbriefingnote.pdf> [Accessed 24 Oct. 2021]. 
 
-- Stevens-Rumann, C.S., Kemp, K.B., Higuera, P.E., Harvey, B.J., Rother, M.T., Donato, D.C., Morgan, P. and Veblen, T.T., 2018. Evidence for declining forest resilience to wildfires under climate change. Ecology Letters, 21(2), pp.243–252. https://doi.org/10.1111/ele.12889. 
+- Stevens-Rumann, C.S., Kemp, K.B., Higuera, P.E., Harvey, B.J., Rother, M.T., Donato, D.C., Morgan, P. and Veblen, T.T., 2018. Evidence for declining forest resilience to wildfires under climate change. *Ecology Letters*, 21(2), pp.243–252. https://doi.org/10.1111/ele.12889. 
 
-- Xu, R., Yu, P., Abramson, M.J., Johnston, F.H., Samet, J.M., Bell, M.L., Haines, A., Ebi, K.L., Li, S. and Guo, Y., 2020. Wildfires, Global Climate Change, and Human Health. New England Journal of Medicine, 383, pp.2173–2181. https://doi.org/10.1056/NEJMsr2028985. 
+- Xu, R., Yu, P., Abramson, M.J., Johnston, F.H., Samet, J.M., Bell, M.L., Haines, A., Ebi, K.L., Li, S. and Guo, Y., 2020. Wildfires, Global Climate Change, and Human Health. *New England Journal of Medicine*, 383, pp.2173–2181. https://doi.org/10.1056/NEJMsr2028985. 
 
  
 
 # References 
 
-ClimateRealism, 2021. James Taylor, Author at ClimateRealism. [online] ClimateRealism. Available at: <https://climaterealism.com/author/jtaylor/> [Accessed 24 Oct. 2021]. 
+ClimateRealism, 2021. *James Taylor, Author at ClimateRealism*. [online] ClimateRealism. Available at: <https://climaterealism.com/author/jtaylor/> [Accessed 24 Oct. 2021]. 
 
-Jones, M.W., Smith, A., Betts, R., Canadell, J.G., Prentice, I.C. and Le Quéré, C., 2020. Climate Change Increases the Risk of Wildfires. [online] ScienceBrief. Available at: <https://www.preventionweb.net/files/73797_wildfiresbriefingnote.pdf> [Accessed 24 Oct. 2021]. 
+Jones, M.W., Smith, A., Betts, R., Canadell, J.G., Prentice, I.C. and Le Quéré, C., 2020. *Climate Change Increases the Risk of Wildfires*. [online] ScienceBrief. Available at: <https://www.preventionweb.net/files/73797_wildfiresbriefingnote.pdf> [Accessed 24 Oct. 2021]. 
 
-NASA Earth Observatory, 2017. Researchers Detect a Global Drop in Fires. [online] NASA Earth Observatory. Available at: <https://earthobservatory.nasa.gov/images/90493/researchers-detect-a-global-drop-in-fires> [Accessed 24 Oct. 2021]. 
+NASA Earth Observatory, 2017. *Researchers Detect a Global Drop in Fires*. [online] NASA Earth Observatory. Available at: <https://earthobservatory.nasa.gov/images/90493/researchers-detect-a-global-drop-in-fires> [Accessed 24 Oct. 2021]. 
 
-NYS Department of Environmental Conservation, 2021. Wildfires. [online] NYS Department of Environmental Conservation. Available at: <https://www.dec.ny.gov/lands/4975.html> [Accessed 24 Oct. 2021]. 
+NYS Department of Environmental Conservation, 2021. *Wildfires*. [online] NYS Department of Environmental Conservation. Available at: <https://www.dec.ny.gov/lands/4975.html> [Accessed 24 Oct. 2021]. 
 
-Palombi, A., 2017. The History of SUVs. [online] DriveTribe. Available at: <https://drivetribe.com/p/the-history-of-suvs-bvw8tw01Taa6KkQSPrYGIQ> [Accessed 24 Oct. 2021]. 
+Palombi, A., 2017. *The History of SUVs*. [online] DriveTribe. Available at: <https://drivetribe.com/p/the-history-of-suvs-bvw8tw01Taa6KkQSPrYGIQ> [Accessed 24 Oct. 2021]. 
 
-Stevens-Rumann, C.S., Kemp, K.B., Higuera, P.E., Harvey, B.J., Rother, M.T., Donato, D.C., Morgan, P. and Veblen, T.T., 2018. Evidence for declining forest resilience to wildfires under climate change. Ecology Letters, 21(2), pp.243–252. https://doi.org/10.1111/ele.12889. 
+Stevens-Rumann, C.S., Kemp, K.B., Higuera, P.E., Harvey, B.J., Rother, M.T., Donato, D.C., Morgan, P. and Veblen, T.T., 2018. Evidence for declining forest resilience to wildfires under climate change. *Ecology Letters*, 21(2), pp.243–252. https://doi.org/10.1111/ele.12889. 
 
-Surgey, N., 2014. Heartland Institute Reluctantly Stands by Denial of Cigarette Smoking Risks. PR Watch. Available at: <https://www.prwatch.org/news/2014/05/12464/heartland-institute-reluctantly-stands-denial-cigarette-smoking-risks> [Accessed 24 Oct. 2021]. 
+Surgey, N., 2014. Heartland Institute Reluctantly Stands by Denial of Cigarette Smoking Risks. *PR Watch*. Available at: <https://www.prwatch.org/news/2014/05/12464/heartland-institute-reluctantly-stands-denial-cigarette-smoking-risks> [Accessed 24 Oct. 2021]. 
 
-Taylor, J., 2021. No, CNN, Wildfires Will Not Be Destroying Times Square, New York City. Watts Up With That?. Available at: <https://wattsupwiththat.com/2021/10/18/no-cnn-wildfires-will-not-be-destroying-times-square-new-york-city/> [Accessed 24 Oct. 2021]. 
+Taylor, J., 2021. No, CNN, Wildfires Will Not Be Destroying Times Square, New York City. *Watts Up With That?*. Available at: <https://wattsupwiththat.com/2021/10/18/no-cnn-wildfires-will-not-be-destroying-times-square-new-york-city/> [Accessed 24 Oct. 2021]. 
 
-The Heartland Institute, 2021. About Us. [online] The Heartland Institute. Available at: <https://www.heartland.org/about-us/index.html> [Accessed 24 Oct. 2021]. 
+The Heartland Institute, 2021. *About Us*. [online] The Heartland Institute. Available at: <https://www.heartland.org/about-us/index.html> [Accessed 24 Oct. 2021]. 
 
-Worth, K., 2018. In Shift, Key Climate Denialist Group Heartland Institute Pivots to Policy. [online] PBS - Frontline. Available at: <https://www.pbs.org/wgbh/frontline/article/in-shift-key-climate-denialist-group-heartland-institute-pivots-to-policy/> [Accessed 24 Oct. 2021]. 
+Worth, K., 2018. *In Shift, Key Climate Denialist Group Heartland Institute Pivots to Policy*. [online] PBS - Frontline. Available at: <https://www.pbs.org/wgbh/frontline/article/in-shift-key-climate-denialist-group-heartland-institute-pivots-to-policy/> [Accessed 24 Oct. 2021]. 
 
-Xu, R., Yu, P., Abramson, M.J., Johnston, F.H., Samet, J.M., Bell, M.L., Haines, A., Ebi, K.L., Li, S. and Guo, Y., 2020. Wildfires, Global Climate Change, and Human Health. New England Journal of Medicine, 383, pp.2173–2181. https://doi.org/10.1056/NEJMsr2028985. 
+Xu, R., Yu, P., Abramson, M.J., Johnston, F.H., Samet, J.M., Bell, M.L., Haines, A., Ebi, K.L., Li, S. and Guo, Y., 2020. Wildfires, Global Climate Change, and Human Health. *New England Journal of Medicine*, 383, pp.2173–2181. https://doi.org/10.1056/NEJMsr2028985. 
