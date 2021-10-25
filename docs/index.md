@@ -1,8 +1,3 @@
----
-title: Climate Claims Q3
-layout: default
-nav_order: 1
----
 # Claim Reference
 
 Taylor, J., 2021. No, CNN, Wildfires Will Not Be Destroying Times Square, New York City. Watts Up With That?. Available at: <https://wattsupwiththat.com/2021/10/18/no-cnn-wildfires-will-not-be-destroying-times-square-new-york-city/> [Accessed 24 Oct. 2021]. 
